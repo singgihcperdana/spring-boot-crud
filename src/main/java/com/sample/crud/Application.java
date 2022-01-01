@@ -18,11 +18,9 @@ public class Application {
 
     public static void main(String[] args) {
 		//skdfjh
-<<<<<<< HEAD
-        //fff
-=======
+
+                //fff
 		//editss
->>>>>>> 889e24bdf9fba08e8560eeef3883cc8ff9820f73
         SpringApplication.run(Application.class, args);
     }
     
